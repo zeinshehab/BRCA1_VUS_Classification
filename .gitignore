@@ -1,0 +1,9 @@
+*.vcf*
+.DS_Store
+references/
+assets/
+data/
+*.sh
+Dockerfile
+*.xlsx
+model_outputs/
